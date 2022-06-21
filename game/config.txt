@@ -1,0 +1,5 @@
+Game_name:爱丽丝之梦;
+Game_key:43b56154a7;
+Title_img:none;
+Title_bgm:none;
+Loading_img:none;
