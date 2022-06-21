@@ -78,3 +78,8 @@ figurefolder=''
 assetsfolder=''
 scenetext=''
 scenetext = os.getenv('scenetext').strip()
+
+enable gh page
+
+playwright record video
+
