@@ -6,5 +6,5 @@
 
 ## step3:replace files in assets such as fonts,etc
 
-## run genvideo.py
+## run action
 
