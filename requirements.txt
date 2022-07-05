@@ -1,0 +1,18 @@
+aiofiles
+aiohttp
+pyppeteer
+playwright
+html2text
+beautifulsoup4
+requests
+lxml
+numpy
+scikit-learn
+networkx
+pandas
+dill
+xgboost
+pyyaml
+readability-lxml
+# article-parser
+# fake_useragent
