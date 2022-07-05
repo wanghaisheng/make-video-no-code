@@ -83,3 +83,4 @@ enable gh page
 
 playwright record video
 
+flybirds

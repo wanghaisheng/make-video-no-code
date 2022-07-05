@@ -8,7 +8,3 @@
 
 ## run genvideo.py
 
-
-rick-and-morty figures
-
-https://github.com/afuh/rick-and-morty-api/tree/master/images
